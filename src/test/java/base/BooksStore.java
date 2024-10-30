@@ -176,9 +176,9 @@ public void checkurl() throws Exception
 	
 }
 
-/*@AfterTest
+@AfterTest
 public void webbrowserclose()
 {
 	driver.close();
-}*/
+}
 }
